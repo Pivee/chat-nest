@@ -1,5 +1,8 @@
 # chat-nest
+
 POC: Nest Application should be able to handle both HTTP Requests and Real-time Socket Communication.
+
+This chat application sends a message to all connected clients in real-time.
 
 ## How to run
 
